@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Linux 명령어 모음 (2)"
+date:   2019-09-26 10:00:00 +0900
+categories: Linux, command
+---
+
 # 리눅스 프로그래밍
 
 ## rm 명령어

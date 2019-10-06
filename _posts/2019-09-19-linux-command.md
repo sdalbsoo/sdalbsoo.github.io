@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Linux 명령어 모음 (1)"
+date:   2019-09-19 10:00:00 +0900
+categories: Linux, command
+---
+
 # 리눅스 프로그래밍
 
 로그인 가능 개수는 7개.
