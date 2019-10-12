@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux 명령어 모음 (1)"
 date:   2019-09-19 10:00:00 +0900
-categories: Linux, command
+tags: [Linux, command]
 comments: true
 ---
 

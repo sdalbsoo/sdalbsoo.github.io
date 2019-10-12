@@ -2,7 +2,7 @@
 layout: post
 title:  "UnicodeDecodeError 해결하기 : 파이썬으로 한글 자막 파일 읽기"
 date:   2018-07-11 10:00:00 +0900
-categories: python
+tas: [python, encoding, decoding, error]
 commends: true
 ---
 

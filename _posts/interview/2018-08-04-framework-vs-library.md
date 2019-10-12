@@ -2,7 +2,7 @@
 layout: post
 title: "Framework와 Library의 차이"
 date: 2018-08-04 10:00:00 +0900
-categories: study interview
+tas: [study, interview]
 comments: true
 ---
 
