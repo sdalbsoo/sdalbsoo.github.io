@@ -3,6 +3,7 @@ layout: post
 title:  "파이썬 함수 관련 몇가지 문제 풀이"
 date:   2018-06-27 10:00:00 +0900
 categories: python
+comments: true
 ---
 
 ## 1번 문제

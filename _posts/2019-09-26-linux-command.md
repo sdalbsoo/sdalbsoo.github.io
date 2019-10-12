@@ -3,6 +3,7 @@ layout: post
 title:  "Linux 명령어 모음 (2)"
 date:   2019-09-26 10:00:00 +0900
 categories: Linux, command
+comments: true
 ---
 
 ## rm 명령어
@@ -82,7 +83,7 @@ categories: Linux, command
 
 `top`
     - pid: process id
-    - pr: 우선순위
+    - pri: 우선순위
     - ni: nice값 --> pr을 관리하는 값
     - s: status
     - zombie: 죽여도 죽여도 생성되는 것. 있다면 불안정한 kernel이다.

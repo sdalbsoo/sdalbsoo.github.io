@@ -3,6 +3,7 @@ layout: post
 title: "Framework와 Library의 차이"
 date: 2018-08-04 10:00:00 +0900
 categories: study interview
+comments: true
 ---
 
 Framework와 Library를 구분하려면 **제어(control)**[^1]가 어느 쪽에 있는지 생각해보면 된다.

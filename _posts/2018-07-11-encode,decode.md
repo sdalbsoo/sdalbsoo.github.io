@@ -3,6 +3,7 @@ layout: post
 title:  "UnicodeDecodeError 해결하기 : 파이썬으로 한글 자막 파일 읽기"
 date:   2018-07-11 10:00:00 +0900
 categories: python
+commends: true
 ---
 
 인터넷에서 한글 자막 파일(cheeze.smi)을 하나 구했다.

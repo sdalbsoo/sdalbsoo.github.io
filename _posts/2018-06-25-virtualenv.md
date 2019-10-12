@@ -3,6 +3,7 @@ layout: post
 title:  "Virtualenv 사용하기 "
 date:   2018-06-25 10:00:00 +0900
 categories: python
+comments: true
 ---
 
 - 가상환경을 쓰는 이유?
