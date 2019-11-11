@@ -42,29 +42,30 @@ comments: true
 
 ### 기본설정
 upstream 등록 명령어: `git remote add upstream [git@github.com:sdalbsoo/example] or [Use https]`
- 
- ![-w625](./media/15734328899373.jpg)
+
+ <img src="./media/15734328899373.jpg">
 
  
 위의 과정을 하고 `git remote -v`명령어를 치면 origin과 upstream을 확인할 수 있다.
  
- ![-w628](./media/15734333110013.jpg)
+  <img src="./media/15734333110013.jpg">
+
 
 ### Git을 통한 협업 과정
  
 1. Upstream(주 레포지토리)에 issue생성. (issue는 에러, 버그, 추가해야 할 것을 추가하는 곳)
 아래는 이번 공모전(React Native tutorial)에 있는 issue들이다. 이 곳에서 New Issue버튼을 눌러서 issue를 생성하면 된다.
 
- ![-w614](./media/15734333289793.jpg)
-
+  <img src="./media/15734333289793.jpg">
  
 1. 작업하고 있는 branch로 이동 후, `git fetch upstream`을 통해 최신 변경 사항을 반영한다. 
     1. `git checkout [branch]`
     2. `(branch…) git fetch upstream`
 만약 최신 변경 사항이 있다면 아래와 같이 뜰 것이다. (변경된 사항들이 반영된 것을 확인 할 수 있다.)
- ![-w626](./media/15734333892085.jpg)
+  <img src="./media/15734333892085.jpg">
 최신 변경 사항이 없다면 아래와 같다.
-![-w627](./media/15734334022148.jpg)
+  <img src="./media/15734334022148.jpg">
+
 
 
 3. upstream/tutorial/basic 브랜치로부터 현재 로컬에 issue number에 해당하는 작업 브랜치를 생성한다. (issue-number가 없다면 붙이지 않아도 된다.)
@@ -114,7 +115,8 @@ upstream 등록 명령어: `git remote add upstream [git@github.com:sdalbsoo/exa
 
 RN router 예제 코드 실행은 아래와 같다.
 
-![router 예제 실행](./images/drawer-component.gif)
+  <img src="./images/drawer-component.gif">
+
 
 
 ## SW Contributon 회고...
@@ -129,4 +131,5 @@ SW Contributon이 끝났다고 나의 개발생활이 끝난 것이 아니니 �
 
 [ReactNative tutorial-JeffGuKang](https://github.com/JeffGuKang/react-native-tutorial)
 
-![-w1021](./media/15734356903346.jpg)
+  <img src="./media/15734356903346.jpg">
+
